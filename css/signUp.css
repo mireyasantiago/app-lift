@@ -1,0 +1,8 @@
+.mexico{
+  width: 30%;
+    height: 25%;
+    background-image: url('../assets/mexico.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 1px solid red;
+}
